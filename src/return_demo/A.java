@@ -10,8 +10,8 @@ public static void main(String[] args) {
 	System.out.println(s);
 }
 
-public String  test3() {
-	return "sam"; // 
+public String  test3() { 
+	return "sam"; 
 	
 }
 
